@@ -107,5 +107,8 @@
 
 ### 📈 GitHub Activity Graph  
 [![Karan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaranPatelDev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ---
+<div align="center">
+  <h3>🐍 Snake Animation 🐍</h3>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="150" alt="snake-animation"/>
+</div>

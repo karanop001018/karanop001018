@@ -43,10 +43,10 @@
 📊 Pandas • NumPy • Scikit-learn • TensorFlow • OpenCV • Matplotlib  
 
 **Frontend & Design**  
-⚡ HTML5 • CSS3 • JavaScript • React • TailwindCSS • Figma  
+⚡ HTML • CSS • JavaScript • React • TailwindCSS 
 
 **Tools & DevOps**  
-🐳 Docker • Git/GitHub/GitLab • NPM • Postman • VS Code • PyCharm  
+🐳 Docker • Git/GitHub/GitLab • NPM • Postman • VS Code • PyCharm • Swagger
 
 ---
 

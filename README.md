@@ -1,21 +1,21 @@
 <div align="center">
-  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Developer GIF" />
 </div>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/karan-patel-16700a215/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" />
   </a>
   <a href="https://x.com/KaranPatel1404" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="25" alt="Twitter" />
   </a>
   <a href="mailto:mpkaranpatel001018@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" alt="Gmail" />
   </a>
   <a href="https://linktr.ee/karan_tec" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="25" />
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" height="25" alt="Linktree" />
   </a>
 </div>
 
@@ -37,16 +37,16 @@
 ### 🛠️ Tech Stack  
 
 **Backend & Databases**  
-🐍 Python • Node.js • Express.js • Django • Flask • MySQL • MongoDB • Redis  
+🐍 Python • Node.js • Express.js • Django • Flask • FastAPI • MySQL • MongoDB • Redis  
 
 **AI / ML & Data**  
 📊 Pandas • NumPy • Scikit-learn • TensorFlow • OpenCV • Matplotlib  
 
 **Frontend & Design**  
-⚡ HTML • CSS • JavaScript • React • TailwindCSS 
+⚡ HTML • CSS • JavaScript • React • TailwindCSS  
 
 **Tools & DevOps**  
-🐳 Docker • Git/GitHub/GitLab • NPM • Postman • VS Code • PyCharm • Swagger
+🐳 Docker • Git/GitHub/GitLab • NPM • Postman • VS Code • PyCharm • Swagger  
 
 ---
 
@@ -92,22 +92,41 @@
 
 ---
 
-### 🔥 My Stats  
+### ⚽ GitFut Developer Card  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KaranPatelDev&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=KaranPatelDev&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <a href="https://gitfut.com/KaranPatelDev" target="_blank">
+    <img src="https://gitfut.com/KaranPatelDev.png" height="350" alt="Karan Patel GitFut Developer Card"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranPatelDev&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <a href="https://gitfut.com/KaranPatelDev" target="_blank">
+    <img src="https://img.shields.io/badge/View%20My-GitFut%20Card-00C853?style=for-the-badge&logo=github&logoColor=white" height="35" alt="View GitFut Card"/>
+  </a>
+</div>
+
+---
+
+### 🔥 My Stats  
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=KaranPatelDev&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KaranPatelDev&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaranPatelDev&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages"/>
 </div>
 
 ---
 
 ### 📈 GitHub Activity Graph  
-[![Karan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KaranPatelDev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Karan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaranPatelDev&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
+
 <div align="center">
   <h3>🐍 Snake Animation 🐍</h3>
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" height="150" alt="snake-animation"/>
